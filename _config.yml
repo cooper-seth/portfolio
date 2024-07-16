@@ -13,15 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Seth Cooper
+email: cooper-seth@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This site is my portfolio! Throughout, you will find details about my career, 
+  education, and various analytics and data science projects I have completed over 
+  the years. Most of these projects are either from school or personal ones I did for fun. 
+  However I also included descriptions of projects I completed for work under the career tab.
 twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+github_username: cooper-seth
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
@@ -60,7 +61,7 @@ plugins:
 author:
   name   : "Seth Cooper"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I am an aspiring data scientist working at AFL Telecommunications as a research analyst. Concurrently, I am pursuing my M.S. in Analytics at Georgia Institute of Technology."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -70,10 +71,10 @@ author:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/cooper-seth"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sa-cooper/"
 
 footer:
   links:
@@ -83,9 +84,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sa-cooper/"
 
 defaults:
   # _posts
