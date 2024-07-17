@@ -63,9 +63,6 @@ author:
   avatar : "/assets/images/savheadshot_240716.jpeg"
   bio    : "I am an aspiring data scientist working at AFL Telecommunications as a research analyst. Concurrently, I am pursuing my M.S. in Analytics at Georgia Institute of Technology."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
