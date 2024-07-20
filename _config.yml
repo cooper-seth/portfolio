@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   However I also included descriptions of projects I completed for work under the career tab.
 twitter_username: username
 github_username: cooper-seth
-minimal_mistakes_skin: contrast
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -63,9 +63,9 @@ author:
   avatar : "/assets/images/savheadshot_240716.jpeg"
   bio    : "I am an aspiring data scientist working at AFL Telecommunications as a research analyst. Concurrently, I am pursuing my M.S. in Analytics at Georgia Institute of Technology."
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "X"
+      icon: "fab fa-fw fa-x-square"
+      url: "https://x.com/thatdatadork"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cooper-seth"
@@ -75,12 +75,12 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "X"
+      icon: "fab fa-fw fa-x-square"
+      url: "https://x.com/thatdatadork"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/cooper-seth"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/sa-cooper/"
