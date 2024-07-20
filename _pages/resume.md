@@ -6,6 +6,7 @@ margin-bottom: 2cm
 permalink: /resume/
 title: "Resume"
 description-meta: 'My resume which includes my relevant experience as an analyst, programming and other skills, and information on my B.S. and M.S.'
+author_profile: false
 ---
 
 ## Experience
