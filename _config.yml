@@ -88,7 +88,7 @@ footer:
 collections:
   portfolio:
     output: true
-    permalink: /portfolio/_portfolio/
+    permalink: /portfolio/:path/
 
 defaults:
   # _posts
