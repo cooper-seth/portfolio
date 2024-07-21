@@ -88,7 +88,7 @@ footer:
 collections:
   portfolio:
     output: true
-    permalink: /_portfolio/:path/
+    permalink: /:collections/:path/
 
 defaults:
   # _posts
@@ -111,7 +111,7 @@ defaults:
       author_profile: true
   # _portfolio
   - scope:
-      path: "_portfolio"
+      path: ""
       type: portfolio
     values:
       layout: single
