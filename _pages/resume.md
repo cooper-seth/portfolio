@@ -1,13 +1,15 @@
 ---
-margin-left: 2cm
-margin-right: 2cm
-margin-top: 1cm
-margin-bottom: 2cm
 permalink: /resume/
 title: "Resume"
 description-meta: 'My resume which includes my relevant experience as an analyst, programming and other skills, and information on my B.S. and M.S.'
 author_profile: false
 classes: wide
+
+sidebar:
+  - title: "Seth Cooper"
+    text: "Research Analyst | Data Visualization and Analytical Skills"
+  - title: "Contact Information"
+    text: "sethcooper.contact@gmail.com"
 ---
 
 ## Experience
