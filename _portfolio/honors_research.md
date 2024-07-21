@@ -1,7 +1,8 @@
 ---
-layout: single
 toc: true
 toc_label: "Table of Contents"
+layout: single
+classes: wide
 title: "Undergraduate Honors Reseach"
 excerpt: "A summary of my undergraduate research paper, "Examining the Effects of Faculty Salary and Work Experience on Student Outcomes at Southern 4-Year Colleges and Universities," along with a download link for the full paper."
 author_profile: true
