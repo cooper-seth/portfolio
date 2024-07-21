@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% for portfolio in site.portfolio %}
-<dif class = "cookie">
-  <h2><a href = "{{ porfolio.url }}">{{portfolio.title}}</a></h2>
+<div class = "cookie">
+  <h3><a href = "{{ porfolio.url }}">{{portfolio.title}}</a></h3>
 </div>
 {% endfor %}
