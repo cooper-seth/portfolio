@@ -10,7 +10,7 @@ author_profile: true
 {% for portfolio in site.portfolio %}
   <h2>
     <a href="{{ portfolio.url }}">
-      {{ portfolio.name }}
+      {{ portfolio.title }}
     </a>
   </h2>
 {% endfor %}
