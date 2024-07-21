@@ -7,7 +7,7 @@ classes: wide
 
 sidebar:
   - title: "Seth Cooper"
-    text: "Research Analyst | Data Visualization and Analytical Skills"
+    text: "Research Analyst @ AFL"
   - title: "Contact Information"
     text: "sethcooper.contact@gmail.com"
 ---
